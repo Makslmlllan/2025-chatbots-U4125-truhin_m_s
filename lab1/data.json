@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "user_id": 660223697,
+    "subject": "Vive coding Lab1",
+    "description": "Сдать 1ую лабораторную работу",
+    "deadline_date": "06.04.2026",
+    "deadline_time": null,
+    "created_at": "06.04.2026 13:04"
+  }
+]
