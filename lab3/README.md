@@ -154,19 +154,12 @@ python bot.py
 
 # 6. Скриншоты работы
 
-Добавь сюда (укажи путь в репозитории):
+<img width="1704" height="949" alt="Снимок экрана 2026-04-08 в 15 11 01" src="https://github.com/user-attachments/assets/addaf0b1-c437-4730-9bcf-2039cc09d809" />
 
-* Скриншот успешного деплоя
-* Скриншот логов Railway
-* Скриншот работы бота в Telegram
+<img width="684" height="393" alt="Снимок экрана 2026-04-08 в 14 46 13" src="https://github.com/user-attachments/assets/bd2e8b01-06b7-4dff-a0d2-710278ad017b" />
 
-Пример:
+<img width="1066" height="811" alt="Снимок экрана 2026-04-08 в 15 12 19" src="https://github.com/user-attachments/assets/afae4170-bed9-4157-8b41-c5cd2e134753" />
 
-```
-![deploy](./images/deploy.png)
-![logs](./images/logs.png)
-![bot](./images/bot.png)
-```
 
 # 7. Обратная связь пользователей
 
